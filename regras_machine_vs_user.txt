@@ -1,0 +1,7 @@
+
+Regras do jogo usuário contra a maquina:
+1. Você deverá criar um código secreto com de 4 digitos entre 1 e 8
+2. Seu código não poderá conter numeros repetidos
+3. Escolha qual estrategia de resolução a maquina deverá utilizar
+4. A maquina ira gerar códigos aleatórios para tentar encontrar o correto
+

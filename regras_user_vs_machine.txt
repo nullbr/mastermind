@@ -1,0 +1,12 @@
+
+Regras do jogo contra a máquina:
+1. A maquina ira criar um codigo aleatório de 4 digitos (ex. [1, 2, 3, 4]) que ficará guardado até o fim do jogo
+2. O código nunca terá numeros repitidos
+3. Você terá 8 tentativas para adivinhar o codigo
+4. Pense bem antes de enviar sua tentativa, que deverá estar no seguinte formado: "1234"
+5. Após cada tentativa, você podera visualizar uma correção que informa sobre sua tentativa
+6. Para cada numero correto e que esta na posição correta você ira vizualizar um "X"
+7. Para cada numero correto e na posição errada você ira vizualizar um "O"
+8. Nada irá aparecer para os demais numeros
+9. O jogo acaba quando sua tentativa conter o codigo secreto na ordem correta ou atingir quando atingir 12 tentativa
+10. Digite "sair" para fechar o jogo a qualquer momento
